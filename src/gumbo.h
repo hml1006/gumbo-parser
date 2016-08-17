@@ -47,7 +47,7 @@
 #define fileno _fileno
 #endif
 
-#include <stdbool.h>
+//#include <stdbool.h>
 #include <stddef.h>
 
 #ifdef __cplusplus
